@@ -1,0 +1,5 @@
+/ .env
+/.env.example
+/frontend_api.md
+/Makefile
+/README.md
