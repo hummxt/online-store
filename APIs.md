@@ -1,3 +1,5 @@
+There are informations about API URLs, fields and methods.
+
 ## Auth and Profile
 
 1. Register
