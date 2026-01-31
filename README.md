@@ -7,3 +7,5 @@ Project Features:
 - Product categorization.
 - Shopping cart for managing purchases.
 - Checkout system for converting carts into real orders.
+
+Detailed information about API endpoints, including methods, URLs, and required fields, can be found in the [APIs.md](./APIs.md) file.
